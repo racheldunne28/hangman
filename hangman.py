@@ -203,11 +203,3 @@ def run_game():
         print("You win!")
     else:
         print("You lose!")
-
-    
-            
-            
-    
-    
-    
-    
